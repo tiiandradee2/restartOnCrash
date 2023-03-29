@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "install": "^0.13.0",
+    "net": "^1.0.2"
+  }
+}
